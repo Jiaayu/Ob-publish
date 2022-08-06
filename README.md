@@ -1,2 +1,2 @@
-# Ob-publish
+# MyOb
  
