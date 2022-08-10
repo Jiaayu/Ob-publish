@@ -1,1 +1,1 @@
-![[Hp根除.png]]
+![[../Attachments/IMG/Hp根除.png]]
