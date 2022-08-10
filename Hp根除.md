@@ -1,1 +1,1 @@
-![[Ob-publish/Attachments/IMG/Hp根除.png]]
+![[https://doc.jieyu.icu/#/Attachments/IMG/Hp根除.png]]
