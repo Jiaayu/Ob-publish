@@ -49,7 +49,11 @@
         nextText: '下一章节',
         crossChapter: true,
       },
-
+	  toc: {
+	  	scope: '.markdown-section',
+	  	headings: 'h1, h2, h3',
+	  	title: 'Table of Contents',
+	  },
 	  //
       //plugins: [
         //EditOnGithubPlugin.create(
@@ -119,5 +123,7 @@
 <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
 <!-- 暗黑主题切换插件 -->
 <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script> 
+<script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
 
 </html>
