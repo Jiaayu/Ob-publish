@@ -1,1 +1,1 @@
-![[../Attachments/IMG/Hp根除.png]]
+![[Ob-publish/Attachments/IMG/Hp根除.png]]
