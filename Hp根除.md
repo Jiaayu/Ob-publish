@@ -1,1 +1,1 @@
-![[https://doc.jieyu.icu/#/Attachments/IMG/Hp根除.png]]
+![这是图片](/Attachments/IMG/病理反射.png)
