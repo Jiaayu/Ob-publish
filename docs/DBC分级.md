@@ -1,1 +1,0 @@
-基于器官功能障碍和感染。1.轻型：无胰腺坏死和[[Ob-publish/docs/Attachments/Floder/器官功能障碍]]；2.中型：无菌性胰腺坏死或一过性（<48h）[[Ob-publish/docs/Attachments/Floder/器官功能障碍]]；3.重型：感染性胰腺坏死或持续[[Ob-publish/docs/Attachments/Floder/器官功能障碍]]；4.危重型：感染性胰腺坏死和持续[[Ob-publish/docs/Attachments/Floder/器官功能障碍]]。
