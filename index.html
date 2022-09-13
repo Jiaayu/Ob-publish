@@ -54,6 +54,13 @@
         nextText: '下一章节',
         crossChapter: true,
       },
+      timeUpdater: {
+        text: ">最后更新时间: {docsify-updated}",
+        formatUpdated: "{YYYY}/{MM}/{DD}",
+        whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+      },
+};
+	  
 	  
 	   // if (typeof navigator.serviceWorker !== 'undefined') {
 		//	navigator.serviceWorker.register('sw.js')
@@ -130,6 +137,8 @@
 <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script> 
 <!-- wikilink -->
 
+<script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+<!-- 最后编辑 -->
 
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script><!-- 折叠侧边栏 -->
 </html>
