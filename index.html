@@ -56,18 +56,10 @@
         crossChapter: true,
       },
 
-  // lastModified: {
-  //      repo: 'rxmapple/docsify-last-modified'
-   // },
-	
-	
-	
-
- timeUpdater: {
-    text: ">最后更新时间: {docsify-updated}",
-    formatUpdated: "{YYYY}/{MM}/{DD}",
-    whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
-  },
+  lastModified: {
+        repo: 'rxmapple/docsify-last-modified',
+                    basePath: 'example/'
+    },
 
 	   // if (typeof navigator.serviceWorker !== 'undefined') {
 		//	navigator.serviceWorker.register('sw.js')
@@ -146,7 +138,9 @@
 
 
 <!-- 最后编辑 -->
-<script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/tinydate@1.3.0/dist/tinydate.min.js"></script>
+<script src="//cdn.jsdelivr.net/gh/rxmapple/docsify-last-modified@main/src/docsify-last-modified.js"></script>
+
 
 
 
